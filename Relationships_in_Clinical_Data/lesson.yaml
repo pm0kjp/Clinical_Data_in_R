@@ -49,7 +49,7 @@
 - Class: text
   Output: In this lesson, we will examine fabricated clinical data. 
     You will work with data that looks like the same kind of data you 
-    might get from a query of CHOP's EHR.
+    might get from a query of an EHR (electronic health record).
 
 - Class: text
   Output: Again, it's very important to point out that this is not 
@@ -116,13 +116,13 @@
 - Class: text
   Output: Can you imagine trying to store medication administrations per patient, where
     each row was a patient?  You'd need many columns to represent different days,
-    different hours, different possible medications... it would be untenable!  At 
-    CHOP we administer thousands of drugs, in various doses, at various times, to 
+    different hours, different possible medications... it would be untenable!  Hospitals
+    administer thousands of drugs, in various doses, at various times, to 
     various people.  The easiest way to track this is to treat each dose as an event,
     where we log the important details, including who got the medicine.
 
 - Class: text
-  Output: As an aside, you should know that the CHOP medical record has thousands of 
+  Output: As an aside, you should know that the electronic medical record has thousands of 
     tables, and in order to save space and make our database fast and efficient, we 
     store data in as compact a way as possible.  For example, the medication orders
     table holds a code number that identifies the medicine.  A code number is much shorter 
@@ -329,9 +329,9 @@
 
 - Class: video
   Output: Say "Yes" to open a quick survey (less than five minutes, I promise!) in your web browser. 
-    It's important to us at Arcus that we only provide good quality 
-    education that's helpful to you.  This survey gives us important metrics for
-    knowing what works and what doesn't.
+    It's important to us in the Arcus program of the Children's Hospital of Philadelphia
+    that we only provide good quality education that's helpful to you.  This survey gives us important
+    metrics for knowing what works and what doesn't.
   VideoLink: https://redcap.chop.edu/surveys/?s=TJ73ETH9R8
 
 

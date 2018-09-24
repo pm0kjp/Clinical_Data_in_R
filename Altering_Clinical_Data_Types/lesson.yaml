@@ -50,7 +50,7 @@
 - Class: text
   Output: In this lesson, we will examine fabricated clinical data. 
     You will work with data that looks like the same kind of data you 
-    might get from a query of CHOP's EHR.
+    might get from a query of an EHR (electronic health record).
 
 - Class: text
   Output: Again, it's very important to point out that this is not 
@@ -591,9 +591,9 @@
 
 - Class: video
   Output: Say "Yes" to open a quick survey (less than five minutes, I promise!) in your web browser. 
-    It's important to us at Arcus that we only provide good quality 
-    education that's helpful to you.  This survey gives us important metrics for
-    knowing what works and what doesn't.
+    It's important to us in the Arcus program of the Children's Hospital of Philadelphia
+    that we only provide good quality education that's helpful to you.  This survey gives us important
+    metrics for knowing what works and what doesn't.
   VideoLink: https://redcap.chop.edu/surveys/?s=L4MXDFAFDY
 
 - Class: text
